@@ -1,0 +1,8 @@
+<filter>
+        <filter-name>Set Character Encoding
+        <filter-class>filters.SetCharacterEncodingFilter
+        <init-param>
+            <param-name>encoding
+            <param-value>EUC_JP
+        </init-param>
+    </filter>
