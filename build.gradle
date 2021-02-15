@@ -5,6 +5,7 @@
 plugins {
     id 'java'
     id 'maven'
+id 'org.springframework.boot' version '2.2.5.RELEASE'
 }
 
 repositories {
